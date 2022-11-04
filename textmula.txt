@@ -2,3 +2,5 @@ Hallo di sini kita akan membuat sebuah megick yang mana nantinya akan melakukan
 perbuatan yang menjadi lebih bermakna.
 
 ini merupakan bren pembaruan 1
+
+ini melakukan clone di tempat yang lain
